@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">manar_benhmida_mesuredegl</string>
+    <string name="title">Mesure de niveau de glycémie</string>
+    <string name="val_text">valeur mesurée (en mmom/l)</string>
+</resources>
